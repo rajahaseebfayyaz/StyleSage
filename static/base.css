@@ -56,6 +56,10 @@ body {
     border: 1px solid white !important;
 }
 
+.bg-white {
+    background: white !important;
+}
+
 /* ____________________ Media Queries */
 
 /* Slightly larger container on x1 screens */
